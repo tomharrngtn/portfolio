@@ -21,28 +21,20 @@ header h1#logo a {
 }
 
 header h1#logo img {
-	margin: 0 0 2rem;
+	margin: 0 0 1rem;
 }
 
 header h1#logo span {
 	display: block;
 }
 
-header h1#logo span.nickname {
-	font-size: 3rem;
-	letter-spacing: -.1rem;
-	line-height: 2rem;
-}
-
 header h1#logo span.name {
 	font-size: 5rem;
-	letter-spacing: -.2rem;
 	line-height: 5.5rem;
 }
 
 header h1#logo span.title {
 	font-size: 3.25rem;
-	letter-spacing: -.1rem;
 	line-height: 1rem;
 }
 
