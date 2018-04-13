@@ -15,11 +15,7 @@ header h1#logo {
 }
 
 header h1#logo a {
-	color: #333;
-}
-
-header h1#logo img {
-	margin: 0 0 1rem;
+	color: #000;
 }
 
 header h1#logo span {
@@ -30,6 +26,7 @@ header h1#logo span.name {
 	font-family: 'Roboto Slab', serif;
 	font-size: 5rem;
 	font-weight: 800;
+	letter-spacing: -.1rem;
 }
 
 header h1#logo span.title {
