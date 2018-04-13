@@ -1,5 +1,5 @@
 body {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Roboto', serif;
 }
 
 a:hover {
@@ -12,8 +12,6 @@ header h1#logo {
 	margin: 0 auto;
 	padding: 4rem 0;
 	text-align: center;
-	text-transform: uppercase;
-	font-weight: 800;
 }
 
 header h1#logo a {
@@ -29,12 +27,15 @@ header h1#logo span {
 }
 
 header h1#logo span.name {
+	font-family: 'Roboto Slab', serif;
 	font-size: 5rem;
+	font-weight: 300;
 	line-height: 5.5rem;
 }
 
 header h1#logo span.title {
 	font-size: 3.25rem;
+	font-weight: 800;
 	line-height: 1rem;
 }
 
