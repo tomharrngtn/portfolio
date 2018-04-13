@@ -29,14 +29,13 @@ header h1#logo span {
 header h1#logo span.name {
 	font-family: 'Roboto Slab', serif;
 	font-size: 5rem;
-	font-weight: 300;
-	line-height: 5.5rem;
+	font-weight: 800;
 }
 
 header h1#logo span.title {
-	font-size: 3.25rem;
-	font-weight: 800;
-	line-height: 1rem;
+	font-size: 2rem;
+	font-weight: 100;
+	text-transform: uppercase;
 }
 
 article#portfolio div.row {
