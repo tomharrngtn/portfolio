@@ -23,9 +23,9 @@ article {
 }
 
 article#intro {
-	padding-bottom: 10rem;
+	padding-bottom: 15rem;
 }
 
 article#latest-work div.row {
-	margin-top: -10rem;
+	margin-top: -15rem;
 }
