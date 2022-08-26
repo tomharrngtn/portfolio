@@ -31,10 +31,10 @@ article#latest-work div.row {
 }
 
 article#latest-work div.row div.card div.card-img-overlay {
-	display: none;
+	visibility: hidden;
 }
 
 article#latest-work div.row div.card:hover div.card-img-overlay {
-	display: flex;
+	visibility: visible;
 	background-color: rgba(4,30,66,.9);
 }
