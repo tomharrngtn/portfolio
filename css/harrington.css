@@ -29,3 +29,7 @@ article#intro {
 article#latest-work div.row {
 	margin-top: -15rem;
 }
+
+article#latest-work div.row div.card div.card-img-overlay {
+	background-color: rgba(4,30,66,.75);
+}
