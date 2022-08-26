@@ -12,4 +12,5 @@ a:hover {
 
 .card {
 	border: none;
+	border-radius: 0;
 }
