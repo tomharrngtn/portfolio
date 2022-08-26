@@ -33,12 +33,12 @@ article#latest-work div.row {
 article#latest-work div.row div.card div.card-img-overlay {
 	visibility: hidden;
 	opacity: 0;
-  	transition: visibility 1000ms linear 1000ms, opacity 1000ms;
+  	transition: visibility 500ms linear 500ms, opacity 500ms;
 }
 
 article#latest-work div.row div.card:hover div.card-img-overlay {
 	visibility: visible;
 	background-color: rgba(4,30,66,.9);
 	opacity: 1;
-  	transition: visibility 1000ms linear 1000ms, opacity 1000ms;
+  	transition: visibility 0ms linear 0ms, opacity 500ms;
 }
