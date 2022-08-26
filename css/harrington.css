@@ -14,6 +14,10 @@ a:hover {
 	border: none;
 }
 
+article {
+	padding: 4rem 0;
+}
+
 article#intro {
 	padding-bottom: 10rem;
 }
