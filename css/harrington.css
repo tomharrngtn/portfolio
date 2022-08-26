@@ -13,3 +13,7 @@ a:hover {
 .card {
 	border: none;
 }
+
+article#intro {
+	padding-bottom: 10rem;
+}
