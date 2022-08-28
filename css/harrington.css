@@ -905,10 +905,6 @@ a:hover {
 	padding: 0 4rem;
 }
 
-.bg-pugh-lt {
-	background-color: #ebf4ff;
-}
-
 .card {
 	border: none;
 }
@@ -933,7 +929,7 @@ article#latest-work div.row div.card div.card-img-overlay {
 
 article#latest-work div.row div.card:hover div.card-img-overlay {
 	visibility: visible;
-	background-color: rgba(4,30,66,.9);
+	background-color: rgba(var(--nittany),.9);
 	opacity: 1;
   	transition: visibility 0ms linear 0ms, opacity 500ms;
 }
