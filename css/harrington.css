@@ -39,7 +39,7 @@ article#latest-work div.row div.card:hover div.card-img-overlay {
   	transition: visibility 0ms linear 0ms, opacity 500ms;
 }
 
-.btn-linkedin, .btn-dribbble, .btn-github, {
+.btn-linkedin, .btn-dribbble, .btn-github {
 	color: #fff;
 }
 
