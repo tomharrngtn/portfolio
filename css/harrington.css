@@ -929,7 +929,7 @@ article#latest-work div.row div.card div.card-img-overlay {
 
 article#latest-work div.row div.card:hover div.card-img-overlay {
 	visibility: visible;
-	background-color: rgba(var(--nittany),.9);
+	background-color: rgba(0,0,0,.9);
 	opacity: 1;
   	transition: visibility 0ms linear 0ms, opacity 500ms;
 }
