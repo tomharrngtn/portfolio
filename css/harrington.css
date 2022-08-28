@@ -18,6 +18,10 @@ article {
 	padding: 4rem 0;
 }
 
+article.xp {
+	padding: 8rem 0;
+}
+
 article#intro {
 	padding-bottom: 15rem;
 }
