@@ -41,16 +41,20 @@ article#latest-work div.row div.card:hover div.card-img-overlay {
 
 .btn-linkedin, .btn-dribbble, .btn-github {
 	color: #fff;
+	border: none;
 }
 
 .btn-linkedin:hover {
-	color: #0077b5;;
+	color: #0077b5;
+	border: none;
 }
 
 .btn-dribbble:hover {
 	color: #ea4c89;
+	border: none;
 }
 
 .btn-github:hover {
 	color: #fff;
+	border: none;
 }
