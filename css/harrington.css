@@ -45,7 +45,18 @@ article#latest-work div.row div.card:hover div.card-img-overlay {
 }
 
 .btn-outline-linkedin:hover {
-	border: none;
+	border-color #0077b5;
 	background-color: #0077b5;
+	color: #fff;
+}
+
+.btn-outline-dribbble {
+	border-color: #ea4c89;
+	color: #ea4c89;
+}
+
+.btn-outline-dribbble:hover {
+	border-color #ea4c89;
+	background-color: #ea4c89;
 	color: #fff;
 }
