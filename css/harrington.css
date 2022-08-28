@@ -39,24 +39,18 @@ article#latest-work div.row div.card:hover div.card-img-overlay {
   	transition: visibility 0ms linear 0ms, opacity 500ms;
 }
 
-.btn-outline-linkedin {
-	border-color: #0077b5;
-	color: #0077b5;
-}
-
-.btn-outline-linkedin:hover {
-	border-color: #0077b5;
-	background-color: #0077b5;
+.btn-linkedin, .btn-dribbble, .btn-github, {
 	color: #fff;
 }
 
-.btn-outline-dribbble {
-	border-color: #ea4c89;
+.btn-linkedin:hover {
+	color: #0077b5;;
+}
+
+.btn-dribbble:hover {
 	color: #ea4c89;
 }
 
-.btn-outline-dribbble:hover {
-	border-color: #ea4c89;
-	background-color: #ea4c89;
+.btn-github:hover {
 	color: #fff;
 }
