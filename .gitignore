@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+.nova/Configuration.json
+>>>>>>> 02641b5 (Change over to Harrington Design Co.)
